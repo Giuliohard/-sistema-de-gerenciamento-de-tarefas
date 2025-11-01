@@ -1,4 +1,4 @@
-# PROJETO 1 -🎯 Sistema de Gerenciamentos de Tarefas em Python
+#  PROJETO 1 -🎯 Sistema de Gerenciamentos de Tarefas em Python
 
 Sistema completo de gerenciamento de tarefas desenvolvido em Python com persistência de dados em JSON.
 
